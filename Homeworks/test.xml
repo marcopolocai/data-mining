@@ -1,0 +1,6 @@
+<root>
+        <element key='value'>text</element>
+        <element>text</element>tail
+        <empty-element xmlns="http://testns/" />
+        <what_the_f name = "Coco">text</what_the_f>
+</root>
